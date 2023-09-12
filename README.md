@@ -1,9 +1,12 @@
-# Wordpress-Rest-API
-Post API with Basic Authentication &amp; JWT Authentication
-Here we have 2 method to post on wordpress using rest api.
-1. **Basic Authentication**: it means you need username & password of your wordpress website.
-2. **JWT Authentication**: it means you need a token to post on your wordpress website.
-<br />
-*Requirements for **Basic**: you need basic authentication plaugin in your wordpress website here you can [**download plugin**](https://drive.google.com/file/d/1ADQ24SROVM8R3Pq8tCOzz2UMOaAie9xF/view?usp=sharing). Also you need to **read documentation** by offical website, [click here to read](https://developer.wordpress.org/rest-api/using-the-rest-api/authentication/#basic-authentication-with-application-passwords).
-<br />
-Requirements for **JWT Authentication**: you need JWT plugin to authenticate you request [click here](https://wordpress.org/plugins/jwt-authentication-for-wp-rest-api/) to download this plugin, and **read documentation** carefully.
+<h1>Wordpress-Rest-API</h1>
+<p>Post API with Basic Authentication &amp; JWT Authentication</p>
+<ul>Here we have 2 method to post on wordpress using rest api.<ul>
+        <li>Basic Authentication: it means you need username & password of your wordpress website.</li>
+        <li>JWT Authentication: it means you need a token to post on your wordpress website.</li>
+</ul>
+<br />  <h3>Requirements for Basic Authentication</h3>
+        <p>you need basic authentication plaugin in your wordpress website, here you can <a href="https://drive.google.com/file/d/1ADQ24SROVM8R3Pq8tCOzz2UMOaAie9xF/view?usp=sharing">download plugin</a> Also you need to read the documentation by offical website. <a href="https://developer.wordpress.org/rest-api/using-the-rest-api/authentication/#basic-authentication-with-application-passwords">by clicking here</a></p>
+        </p>
+       <h3>Requirements for JWT Authentication</h3>
+        <p>you need JWT plugin to authenticate you request <a href="https://wordpress.org/plugins/jwt-authentication-for-wp-rest-api/">click here</a> to download this plugin, and read
+        documentation carefully before running script.</p>
