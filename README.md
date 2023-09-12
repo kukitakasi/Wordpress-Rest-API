@@ -1,6 +1,7 @@
 <h1>Wordpress-Rest-API</h1>
 <p>Post API with Basic Authentication &amp; JWT Authentication</p>
-<ul>Here we have 2 method to post on wordpress using rest api.<ul>
+<h4>Here we have 2 method to post on wordpress using rest api.</h4>
+<ul>
         <li>Basic Authentication: it means you need username & password of your wordpress website.</li>
         <li>JWT Authentication: it means you need a token to post on your wordpress website.</li>
 </ul>
