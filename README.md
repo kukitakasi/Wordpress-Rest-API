@@ -1,3 +1,5 @@
+## LICENSE
+[GNU GENERAL PUBLIC LICENSE](LICENSE)
 <h1>Wordpress-Rest-API</h1>
 <p>Post API with Basic Authentication &amp; JWT Authentication</p>
 <h4>Here we have 2 method to post on wordpress using rest api.</h4>
