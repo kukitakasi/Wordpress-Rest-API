@@ -14,4 +14,5 @@
        <h3>Requirements for JWT Authentication</h3>
         <p>you need JWT plugin to authenticate you request <a href="https://wordpress.org/plugins/jwt-authentication-for-wp-rest-api/">click here</a> to download this plugin, and read
         documentation carefully before running script.</p>
+        <h4>Google Sheet App</h4>
 <p>Make a copy of google sheet then you can use it without any coading knowledge <a href="https://docs.google.com/spreadsheets/d/1Yll3SmC2KP-gPYKA1UlYxieQg5F6GqSRTk59Ix1jzI8/copy">click here to download</a></p>
